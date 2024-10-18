@@ -8537,3 +8537,18 @@ blockquote{
 .action-box+.action-box{
 	margin-top:20px;
 }
+
+.bg-arrows {
+    width: 0;
+    height: 0;
+}
+
+.bg-arrows .tparrows:before {
+    display: none;
+}
+
+.bg-arrows .tparrows {
+    width: 0;
+    height: 0;
+}
+
